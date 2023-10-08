@@ -1,0 +1,14 @@
+chat\app\server\ServerApplication.class
+chat\app\server\repository\UserRepository.class
+chat\app\server\service\implementation\UserServiceImpl.class
+chat\app\server\model\Message.class
+chat\app\server\service\UserService.class
+chat\app\server\model\User.class
+chat\app\server\config\WebSocketConfig.class
+chat\app\server\controller\ConnectionController.class
+chat\app\server\repository\MessageRepository.class
+chat\app\server\controller\MessageController.class
+chat\app\server\security\CorsConfig.class
+chat\app\server\model\ReadReceiptRequest.class
+chat\app\server\controller\ChatController.class
+chat\app\server\exception\UsernameAlreadyUsedException.class
